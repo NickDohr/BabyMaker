@@ -10,7 +10,7 @@ public class BabyMaker
 				Baby myB4 = new Baby("Alfred II", 3.5, false);
 				Baby myB5 = new Baby("Daughter", 9.4, true);
 				//Baby myB6 = new Baby("Sarah", 9.2, true);
-				Baby myB7 = new Baby("Alvin", 6.3, false);
+				//Baby myB7 = new Baby("Alvin", 6.3, false);
 				
 				
 				System.out.println(myB1.name + " was his name!");
